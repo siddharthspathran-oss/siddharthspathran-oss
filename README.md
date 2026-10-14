@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Siddharth 👋</h1>
+<h1 align="center">Hi, I'm Siddharth </h1>
 <p align="center">
   <b>Electronics &amp; Computer Engineering student at UPES Dehradun</b><br>
   I build things that sit between hardware and AI: assistants that actually <i>do</i> things, and the devices they live in.
@@ -39,7 +39,7 @@ Turns a lab manual and my readings into a finished Word report, with calculation
 ---
 
 ## 📚 Currently learning
-Signals &amp; Systems · Analog Electronics · Data Structures · Embedded systems · LLM agents and retrieval
+Embedded systems · LLM agents and retrieval
 
 ## 🤝 Let's connect
 Open to internships and collaborations in **embedded systems, AI agents and automation**.
